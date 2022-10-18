@@ -1,3 +1,9 @@
 import Table from './lib/components/Table'
 
-export { Table }
+const returnLibrary = () => {
+    return {
+        Table: Table
+    }
+}
+
+export default returnLibrary()
