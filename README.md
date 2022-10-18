@@ -5,5 +5,5 @@
 
 ## Props
 
-**headers** is an Array for the headline of the table
-**data** is an Array of objects to fill the cells of the table
+- **headers** is an Array for the headline of the table
+- **data** is an Array of objects to fill the cells of the table

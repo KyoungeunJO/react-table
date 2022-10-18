@@ -1,6 +1,6 @@
 import React from 'react';
 import { useState } from 'react'
-import './Table.css'
+import './index.css'
 
 function Table({headers, data}) {
 
