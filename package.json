@@ -3,7 +3,14 @@
   "keywords": ["react", "components", "ui", "table"],
   "private": false,
   "version": "0.1.1",
-  "main": "dist/assets/index.82c20cf3.js",
+  "main": "./dist/table.umd.js",
+  "module": "./dist/table.es.js",
+  "exports": {
+    ".": {
+      "import": "./dist/table.es.js",
+      "require": "./dist/table.umd.js"
+    }
+  },
   "type": "module",
   "scripts": {
     "dev": "vite",
