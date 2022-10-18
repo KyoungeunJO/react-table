@@ -1,6 +1,6 @@
 # Utilisation
 
-1. `import { Table } from '@kyoungeun/react-table'`
+1. `import Table from '@kyoungeun/react-table'`
 2. `<Table headers={} data={} />`
 
 ## Props

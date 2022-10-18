@@ -6,7 +6,7 @@
     "README.md"
   ],
   "private": false,
-  "version": "0.2.5",
+  "version": "0.2.7",
   "main": "./dist/table.umd.js",
   "module": "./dist/table.es.js",
   "exports": {
@@ -28,5 +28,9 @@
     "@types/react-dom": "^18.0.6",
     "@vitejs/plugin-react": "^2.1.0",
     "vite": "^3.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KyoungeunJO/react-table"
   }
 }
