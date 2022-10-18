@@ -1,7 +1,9 @@
 {
   "name": "@kyoungeun/react-table",
+  "keywords": ["react", "components", "ui", "table"],
   "private": false,
   "version": "0.1.0",
+  "main": "dist/assets/index.82c20cf3.js",
   "type": "module",
   "scripts": {
     "dev": "vite",
